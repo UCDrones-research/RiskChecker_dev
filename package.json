@@ -1,27 +1,27 @@
 {
-  "name": "static",
-  "version": "1.0.0",
+  "name": "UC-Drone-Risk-Checker",
+  "version": "0.1.0",
   "description": "This is a static template with no bundling",
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": "echo Nothing"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/UCDrones-research/RiskChecker_dev"
   },
   "keywords": [
     "static",
     "template",
     "codesandbox"
   ],
-  "author": "Ives van Hoorne",
+  "author": "Brandon Stark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/UCDrones-research/RiskChecker_dev/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/UCDrones-research/RiskChecker_dev#readme",
   "devDependencies": {
     "serve": "^11.2.0"
   }

@@ -1,0 +1,40 @@
+* { 
+    font-family: verdana;
+}
+
+p {
+font-size: 15px;
+}
+
+#score {
+    text-align: center;
+}
+
+canvas {
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        height: 600px;
+}
+
+.score_num {
+        font-size: 16px;
+        font-weight: bold;
+}
+
+.score_des {
+   margin-bottom: 50px;
+}
+
+.slid_text {
+   font-size: small;
+   font-style: italic;
+}
+
+.plot {
+    position: relative; 
+    height:70vh; 
+    width:60vw;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}

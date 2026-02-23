@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/UCDrones-research/RiskChecker_dev#readme",
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^14.2.5"
   }
 }
